@@ -26,5 +26,10 @@ public class MainActivity extends AppCompatActivity {
         tvMessage.setText("Welcome to ICT602 OCT 2023");
     }
 
+    public void testingFunction(View view){
+        //this is a new function
+        //membazir function
+    }
+
 
 }
