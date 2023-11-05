@@ -31,5 +31,10 @@ public class MainActivity extends AppCompatActivity {
         //membazir function
     }
 
+    public void testingFunction2(View view){
+        //this is a new function
+        //membazir function
+    }
+
 
 }
